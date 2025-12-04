@@ -223,7 +223,8 @@ int main()
 }
 ```
 # Output:
-<img width="1919" height="1089" alt="image" src="https://github.com/user-attachments/assets/cffd5165-e00c-4a65-aaea-0d4ed07860c1" />
+<img width="1915" height="1087" alt="image" src="https://github.com/user-attachments/assets/8ae93c46-c8f5-4435-b21b-2268cfa1ed3b" />
+
 
 
 # Result: 
@@ -374,7 +375,8 @@ void displayArray(int *arr, int size) {
 }
 ```
 # Output:
-<img width="1915" height="1086" alt="image" src="https://github.com/user-attachments/assets/91e591ce-9833-4f8f-ba5c-400a5b2c5f43" />
+<img width="1916" height="1091" alt="image" src="https://github.com/user-attachments/assets/760a2f4b-201c-4f77-bd04-7f0017d9a042" />
+
 
 
 
