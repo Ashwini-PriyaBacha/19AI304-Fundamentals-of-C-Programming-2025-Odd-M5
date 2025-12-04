@@ -374,7 +374,8 @@ void displayArray(int *arr, int size) {
 }
 ```
 # Output:
-<img width="1910" height="1088" alt="image" src="https://github.com/user-attachments/assets/615aa6a0-db16-4e26-b945-b8aefe057547" />
+<img width="1915" height="1086" alt="image" src="https://github.com/user-attachments/assets/91e591ce-9833-4f8f-ba5c-400a5b2c5f43" />
+
 
 
 # Result: 
